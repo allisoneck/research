@@ -2,7 +2,7 @@
 Best APIs for easy UX & useful patterns
 
 ## Best APIs for easy UX
-### Google Sign-In, Google APIs
+### [Google Sign-In, Google APIs](google-sign-in/readme.md)
 - Fastest for identity, Gmail/Calendar/Drive, maps, documents
 - Great OAuth UX
 ### GitHub OAuth
